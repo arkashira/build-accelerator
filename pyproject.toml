@@ -5,10 +5,10 @@ build-backend = "poetry.masonry.api"
 [tool.poetry]
 name = "compiler"
 version = "1.0.0"
-description = ""
+description = "A compiler with a free tier and paid tier"
 
 [tool.poetry.dependencies]
 python = "^3.8"
 
 [tool.poetry.dev-dependencies]
-pytest = "^6.2.5"
+pytest = "^6.2"
